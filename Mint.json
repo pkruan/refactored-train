@@ -1,0 +1,10 @@
+{
+  "name": "AI Playground",
+  "theme": "mint",
+  "navigation": [
+    {
+      "group": "เริ่มต้น",
+      "pages": ["index"]
+    }
+  ]
+}
