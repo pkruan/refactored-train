@@ -1,4 +1,9 @@
 {
-  "name": "refactored-train",
-  "docsPath": "docs"
+  "name": "AI Playground",
+  "navigation": [
+    {
+      "group": "เริ่มต้น",
+      "pages": ["index"]
+    }
+  ]
 }
