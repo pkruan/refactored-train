@@ -1,0 +1,10 @@
+{
+  "name": "AI Playground",
+  "docsPath": "docs",
+  "navigation": [
+    {
+      "group": "เริ่มต้น",
+      "pages": ["index"]
+    }
+  ]
+}
