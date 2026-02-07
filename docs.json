@@ -1,9 +1,0 @@
-{
-  "name": "AI Playground",
-  "navigation": [
-    {
-      "group": "เริ่มต้น",
-      "pages": ["index"]
-    }
-  ]
-}
